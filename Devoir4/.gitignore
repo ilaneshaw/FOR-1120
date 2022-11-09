@@ -1,0 +1,19 @@
+# ignore everything (dirs, files, sub-dirs, sub-files)
+/*
+# but do not ignore the .gitignore file
+!.gitignore
+
+# do not ignore R projct
+!FOR1120_Devoir4.Rproj
+
+# do not ignore the following R files
+!FOR1120_repartitionPlacettes.R
+
+# do not ignore the readme
+!README.md
+
+
+
+
+
+
